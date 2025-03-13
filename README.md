@@ -6,10 +6,13 @@
 **1º - Download framework from github**<br />
 `git clone https://github.com/httpsMrFeri/instagram-brute-forcer`<br/>
 **3º - Download python**<br/>
-you can install python from [here](https://www.python.org/downloads/)<br/>
+you can install python from [here](https://www.python./downloads/)<br/>
 **3º - Set execution permissions (you should install python3)**<br />
 `cd instagram-brute-forcer`<br />
 `pip install -r ./requirements.txt`<br />
 `python3 ./InstaCracker.py`<br />
 ---
 ### share with your friends:heart::fire:
+2lfat
+
+pass\
